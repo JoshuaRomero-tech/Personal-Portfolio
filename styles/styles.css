@@ -52,6 +52,10 @@ h3 {
     color: var(--text-dark-strong);
 }
 
+h4 {
+    text-align: center;
+}
+
 li {
     display: block;
 
