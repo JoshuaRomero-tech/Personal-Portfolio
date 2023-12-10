@@ -42,6 +42,8 @@ h2 {
     text-transform: uppercase;
 
     color: var(--text-dark-strong);
+
+    text-align: center;
 }
 
 h3 {
