@@ -83,17 +83,16 @@ img {
     padding: 0 4rem;
 }
 
-.flex-row {
-    display: flex;
-}
-
-
 .center {
     display: flex;
     align-items: center;
     justify-content: center;
 
     text-align: center;
+}
+
+.flex-row {
+    display: flex;
 }
 
 .header-text {
