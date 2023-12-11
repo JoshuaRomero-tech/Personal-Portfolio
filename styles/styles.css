@@ -53,7 +53,11 @@ h3 {
 }
 
 h4 {
-    text-align: center;
+    font-size: 2rem;
+}
+
+h5 {
+    font-size: 1.8rem;
 }
 
 li {
@@ -173,7 +177,7 @@ img {
     text-transform: uppercase;
 }
 
-#projects {
+#-s {
     padding: 3rem 0;
 }
 
